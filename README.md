@@ -1,7 +1,7 @@
 # SilentCheatSheets 🕶️
 
 A multilingual collection of **cheat sheets for C, C++ and Assembly** by SilentPuck.  
-Available in **English (EN)**, **Spanish (ES)** and **Russian (RU)**.  
+Available in **English (EN)**, **Spanish (ES)** 
 
 ---
 
@@ -14,7 +14,7 @@ SilentCheatSheets/
  ├── asm/    → Assembly cheat sheets
 ```
 
-Each folder contains subfolders for **en**, **es** , **ru** versions.  
+Each folder contains subfolders for **en**, **es** versions.  
 
 ---
 
@@ -35,16 +35,6 @@ Aquí encontrarás consejos y ejemplos cortos: sintaxis, funciones, arreglos, ca
 
 Úsalos como referencia rápida.  
 Todo el material está sincronizado con los cortos de YouTube.  
-
----
-
-## 📘 RU — Описание
-
-Добро пожаловать в коллекцию шпаргалок по языкам C, C++ и Ассемблер.  
-Здесь собраны короткие подсказки и примеры: синтаксис, функции, массивы, строки, алгоритмы и низкоуровневый код.  
-
-Используйте их как быстрый справочник.  
-Все материалы синхронизированы с роликами на YouTube.  
 
 ---
 
